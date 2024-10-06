@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1723891341 source:d:\codeblocks\projects\testproject\test_project\roundcornerrect.cpp
+	"RoundCornerRect.h"
+	<cmath>
+
+1723891087 d:\codeblocks\projects\testproject\test_project\roundcornerrect.h
+	<SDL.h>
+
+1723891356 source:d:\codeblocks\projects\testproject\test_project\main.cpp
+	<SDL.h>
+	"RoundCornerRect.h"
+
+1725014945 source:d:\codeblocks\projects\testproject\main.cpp
+	"Menu.h"
+	"SDL.h"
+	<iostream>
+
+1723891087 d:\codeblocks\projects\testproject\src\roundcornerrect.h
+	<SDL.h>
+
+1723891341 source:d:\codeblocks\projects\testproject\src\roundcornerrect.cpp
+	"RoundCornerRect.h"
+	<cmath>
+
+1724411317 source:d:\codeblocks\projects\testproject\menu.cpp
+	"Menu.h"
+	"Slider.h"
+
+1724411703 d:\codeblocks\projects\testproject\menu.h
+	<SDL.h>
+	"Slider.h"
+	<iostream>
+	"RoundCornerRect.h"
+
+1724410800 source:d:\codeblocks\projects\testproject\test.cpp
+	"Menu.h"
+	"SDL.h"
+	<iostream>
+
+1724410719 source:d:\codeblocks\projects\testproject\slider.cpp
+	"Slider.h"
+
+1724410060 d:\codeblocks\projects\testproject\slider.h
+	<SDL.h>
+
+1724656282 d:\codeblocks\projects\testproject\src\slider\slider.h
+	"SDL.h"
+	"SDL_ttf.h"
+
+1723891087 d:\codeblocks\projects\testproject\src\round corner rectangle\roundcornerrect.h
+	<SDL.h>
+
+1723891341 source:d:\codeblocks\projects\testproject\src\round corner rectangle\roundcornerrect.cpp
+	"RoundCornerRect.h"
+	<cmath>
+
+1724507952 source:d:\codeblocks\projects\testproject\src\slider\slider.cpp
+	"Slider.h"
+
+1724499993 d:\codeblocks\projects\testproject\src\menu\menu.h
+	<SDL.h>
+	"Slider.h"
+	<iostream>
+	"RoundCornerRect.h"
+
+1725011543 source:d:\codeblocks\projects\testproject\src\menu\menu.cpp
+	"Menu.h"
+	"Slider.h"
+
+1723891087 d:\codeblocks\projects\testproject\src\round_corner_rectangle\roundcornerrect.h
+	<SDL.h>
+
+1723891341 source:d:\codeblocks\projects\testproject\src\round_corner_rectangle\roundcornerrect.cpp
+	"RoundCornerRect.h"
+	<cmath>
+
+1402285870 d:\codeblocks\sdl2_gfx-1.0.1 (compiled)\sdl2_gfx\include\sdl2_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
